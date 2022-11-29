@@ -5,4 +5,6 @@
 + python installer.py
 + python nxt-enc.py
 
+# YOUTUBE DEMO : https://youtu.be/pHl7IjlvS6I
+
 #THANK YOU ALL , PANEL FREE !
