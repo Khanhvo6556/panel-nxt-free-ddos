@@ -1,3 +1,7 @@
+#New User Pass 
+User : nxt
+pass : nxt
+
 #New Methods !
 
 #Setup Guide
