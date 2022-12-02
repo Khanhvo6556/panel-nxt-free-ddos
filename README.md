@@ -2,6 +2,8 @@
 User : nxt
 pass : nxt
 
+#New Proxy !
+
 #New Methods !
 
 #Setup Guide
